@@ -1,0 +1,8 @@
+.DS_Store
+xcuserdata
+project.xcworkspace
+artifacts
+*.xccheckout
+Pods
+Podfile.lock
+BackgroundNetworkTester.xcworkspace
